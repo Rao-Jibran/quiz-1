@@ -69,3 +69,16 @@
         border: none;
         align-items: center;
     }
+    .header{
+        background-color: black;
+        color: cornsilk;
+        display: flex;
+        justify-content: space-around;
+    }
+    .sub1{
+        align-items: center;
+        text-align: center;
+    }
+.sub2{
+    text-align: right;
+}
